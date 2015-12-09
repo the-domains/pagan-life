@@ -1,0 +1,28 @@
+name: Pagan Life
+favicon: null
+layout_spectrum: 0.4257613036315888
+typography_spectrum: 0.7685253925155848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3608625994529575
+  lightness: 0.11957658478058875
+  saturation: 0.9643371729180217
+  rhythmicContrast: 0.14316060463897884
+purpose: []
